@@ -1,4 +1,4 @@
-module github.com/EliasOlie/imersao/codepix-go
+module github.com/EliasOlie/codepix-go/tree/master/
 
 go 1.15
 
